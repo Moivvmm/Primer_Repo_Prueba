@@ -2,7 +2,7 @@
 
 cualquier cosa
 1.	Realiza un análisis del problema de un software que permita sumar o restar (una sóla opción por ejecución) números enteros.
-	Entrada:
+      	Entrada:
 •	Preguntar por Opción Sumar o Restar 
 •	Introducir dos variables Numérica Entera
 	Salida: 
